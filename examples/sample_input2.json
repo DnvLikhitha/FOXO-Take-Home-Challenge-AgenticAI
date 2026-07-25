@@ -1,0 +1,44 @@
+[
+    {
+        "correlation_id": "A1",
+        "agent": "Planner",
+        "event": "start",
+        "ts_ms": 100
+    },
+    {
+        "correlation_id": "A1",
+        "agent": "Planner",
+        "event": "success",
+        "ts_ms": 200
+    },
+    {
+        "correlation_id": "A1",
+        "agent": "Researcher",
+        "event": "start",
+        "ts_ms": 210
+    },
+    {
+        "correlation_id": "A2",
+        "agent": "Agent1",
+        "event": "start",
+        "ts_ms": 50
+    },
+    {
+        "correlation_id": "A2",
+        "agent": "Agent1",
+        "event": "success",
+        "ts_ms": 150
+    },
+    {
+        "correlation_id": "A2",
+        "agent": "Agent2",
+        "event": "start",
+        "ts_ms": 160
+    },
+    {
+        "correlation_id": "A2",
+        "agent": "Agent2",
+        "event": "error",
+        "ts_ms": 250
+    }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "correlation_id": "A1",
+    "agent": "Planner",
+    "event": "start",
+    "ts_ms": 100
+  },
+  {
+    "correlation_id": "A1",
+    "agent": "Planner",
+    "event": "success",
+    "ts_ms": 200
+  },
+  {
+    "correlation_id": "A1",
+    "agent": "Researcher",
+    "event": "start",
+    "ts_ms": 210
+  }
+]

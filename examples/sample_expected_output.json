@@ -1,0 +1,10 @@
+{
+  "A1": {
+    "timeline": [
+      { "agent": "Planner", "event": "start", "ts_ms": 100 },
+      { "agent": "Planner", "event": "success", "ts_ms": 200 },
+      { "agent": "Researcher", "event": "start", "ts_ms": 210 }
+    ],
+    "status": "incomplete"
+  }
+}
